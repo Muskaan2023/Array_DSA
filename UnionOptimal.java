@@ -54,7 +54,7 @@ public class UnionOptimal {
     public static void main(String[] args) {
 
         int[] arr1 = {1, 2, 2, 3, 4};
-        int[] arr2 = {2, 3, 5};
+        int[] arr2 = {2, 3, 4, 4, 5};
 
         ArrayList<Integer> result = union(arr1, arr2);
 
